@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=200&section=header&text=Sumin's%20Github&fontSize=60&fontAlignY=30&desc=BackEnd%20Developer&descSize=25&descAlignY=50&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Sumin's%20Github&height=150&fontSize=60&desc=Backend%20Developer&descAlignY=80&descAlign=65)
 
 ## Skills
 
