@@ -9,8 +9,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://devgamesu.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devbacksu&theme=default)](https://devgamesu.tistory.com/)
 </div><br>
 
 ## 
