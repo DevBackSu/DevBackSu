@@ -36,10 +36,10 @@ notion / slack
     <a href="https://devbacksu.github.io">
         <img src="https://img.shields.io/badge/GithubPages-000000?style=for-the-badge&logo=GithubPages&logoColor=white"> 
     </a>
-    
     <a href="https://devgamesu.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
+</div>
 
 <!--
 ## Stats and Most Languages
