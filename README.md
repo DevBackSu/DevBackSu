@@ -37,12 +37,16 @@ jest
 
 ## 💻 Dev's Blog List 💻
 <div style="display:flex; flex-direction:row;">
+  <div style="display:flex; flex-direction:column">
     <p>Back-end Study Blog</p>
     <a href="https://devbacksu.github.io">
         <img src="https://img.shields.io/badge/GithubPages-000000?style=for-the-badge&logo=GithubPages&logoColor=white"> 
     </a>
+  </div>
+  <div style="display:flex; flex-direction:column">
     <p>Game Study Blog</p>
     <a href="https://devgamesu.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
+  </div>
 </div>
