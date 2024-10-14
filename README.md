@@ -37,19 +37,12 @@ jest
 
 ## 💻 Dev's Blog List 💻
 <div style="display:flex; flex-direction:row;">
+    <p>Back-end Study Blog</p>
     <a href="https://devbacksu.github.io">
-        <p>Back-end Study Blog</p>
         <img src="https://img.shields.io/badge/GithubPages-000000?style=for-the-badge&logo=GithubPages&logoColor=white"> 
     </a>
+    <p>Game Study Blog</p>
     <a href="https://devgamesu.tistory.com">
-        <p>Game Study Blog</p>
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div>
-
-<!--
-## Stats and Most Languages
-
-[![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBackSu&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/DevBackSu/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBackSu&layout=compact)
--->
