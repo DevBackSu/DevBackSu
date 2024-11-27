@@ -5,25 +5,22 @@
 ## ✨ Main Stack ✨
 
 ### Backend
-Java / JSP / Node.js / ExpressJS / Spring / Spring Boot
+Java / Node.js / ExpressJS / Spring / Spring Boot
 
 ### Database
 SQL / MySQL / MariaDB
 
 ### Server
-linux / apache tomcat
+Linux / apache tomcat
 
 ### Version Control
 git / github
 
-### Tools
-intellij idea / vscode / visual studio / eclipse ide / DBeaver / HeidiSQL / postman
-
-### Communication
-notion / slack
-
 
 ## ✏️ Other Stack ✏️
+
+## Backend
+JSP /
 
 ### Frontend
 HTML5 / CSS / JavaScript / Webpack
@@ -33,6 +30,12 @@ HTML5 / CSS / JavaScript / Webpack
 
 ### Testing
 jest
+
+### Tools
+intellij idea / vscode / visual studio / eclipse ide / DBeaver / HeidiSQL / postman
+
+### Communication
+notion / slack
 
 
 ## 💻 Dev's Blog List 💻
